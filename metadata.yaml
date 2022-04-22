@@ -1,11 +1,16 @@
 _repo: The-Memoirs-of-a-Swine-in-the-Land-of-Kultur-or-How-it-Felt-to-be-a-Prisoner-of-War_67760
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67760-h/images/cover.jpg
 creator:
   author:
     agent_name: Muse, Ben
     gutenberg_agent_id: '54442'
     url: http://www.gutenberg.org/2009/agents/54442
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67760#The-Memoirs-of-a-Swine-in-the-Land-of-Kultur-or-How-it-Felt-to-be-a-Prisoner-of-War
 gutenberg_issued: '2022-04-03'
 identifiers:
   gutenberg: '67760'
